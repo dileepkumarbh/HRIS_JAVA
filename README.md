@@ -13,10 +13,6 @@ HRIS
 
 * Manage departments (Add, edit and delete).
 
-* Make reports (export to Excel and PDF).
-
-* Search (with multiple combine fields).
-
 * Pagination
 
 * Validation
